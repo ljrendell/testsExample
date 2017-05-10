@@ -1,0 +1,11 @@
+Package: testsExample
+Title: Unit testing examples for Warwick R User Group
+Version: 1.0-0
+Date: 2017-05-10
+Authors@R: person("Lewis", "Rendell", email = "L.Rendell@warwick.ac.uk", role =
+    c("aut", "cre"))
+Description: An example package for demonstrating how to add unit tests to an R
+    package, for the Warwick R User Group, 2017-05-11.
+License: GPL-2
+RoxygenNote: 5.0.1
+Suggests: testthat
