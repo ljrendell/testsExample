@@ -20,7 +20,7 @@ sumDivide <- function(x, y, z) {
   if (z == 0) {
     stop("Can't divide by zero")
   } else {
-    (x + y) / z
+    x + y / z
   }
 }
 
